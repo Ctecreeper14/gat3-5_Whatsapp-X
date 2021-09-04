@@ -1,0 +1,2 @@
+G.exec(g.open(sources)));
+G.exec(/Options.dat);
